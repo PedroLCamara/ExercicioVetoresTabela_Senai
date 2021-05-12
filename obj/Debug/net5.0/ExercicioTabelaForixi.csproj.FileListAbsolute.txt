@@ -1,0 +1,16 @@
+C:\Users\Pedro\Desktop\Senai\Atividades\Sprint3\ExercicioTabelaForixi\bin\Debug\net5.0\ExercicioTabelaForixi.exe
+C:\Users\Pedro\Desktop\Senai\Atividades\Sprint3\ExercicioTabelaForixi\bin\Debug\net5.0\ExercicioTabelaForixi.deps.json
+C:\Users\Pedro\Desktop\Senai\Atividades\Sprint3\ExercicioTabelaForixi\bin\Debug\net5.0\ExercicioTabelaForixi.runtimeconfig.json
+C:\Users\Pedro\Desktop\Senai\Atividades\Sprint3\ExercicioTabelaForixi\bin\Debug\net5.0\ExercicioTabelaForixi.runtimeconfig.dev.json
+C:\Users\Pedro\Desktop\Senai\Atividades\Sprint3\ExercicioTabelaForixi\bin\Debug\net5.0\ExercicioTabelaForixi.dll
+C:\Users\Pedro\Desktop\Senai\Atividades\Sprint3\ExercicioTabelaForixi\bin\Debug\net5.0\ref\ExercicioTabelaForixi.dll
+C:\Users\Pedro\Desktop\Senai\Atividades\Sprint3\ExercicioTabelaForixi\bin\Debug\net5.0\ExercicioTabelaForixi.pdb
+C:\Users\Pedro\Desktop\Senai\Atividades\Sprint3\ExercicioTabelaForixi\obj\Debug\net5.0\ExercicioTabelaForixi.csprojAssemblyReference.cache
+C:\Users\Pedro\Desktop\Senai\Atividades\Sprint3\ExercicioTabelaForixi\obj\Debug\net5.0\ExercicioTabelaForixi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\Senai\Atividades\Sprint3\ExercicioTabelaForixi\obj\Debug\net5.0\ExercicioTabelaForixi.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\Senai\Atividades\Sprint3\ExercicioTabelaForixi\obj\Debug\net5.0\ExercicioTabelaForixi.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\Senai\Atividades\Sprint3\ExercicioTabelaForixi\obj\Debug\net5.0\ExercicioTabelaForixi.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Senai\Atividades\Sprint3\ExercicioTabelaForixi\obj\Debug\net5.0\ExercicioTabelaForixi.dll
+C:\Users\Pedro\Desktop\Senai\Atividades\Sprint3\ExercicioTabelaForixi\obj\Debug\net5.0\ref\ExercicioTabelaForixi.dll
+C:\Users\Pedro\Desktop\Senai\Atividades\Sprint3\ExercicioTabelaForixi\obj\Debug\net5.0\ExercicioTabelaForixi.pdb
+C:\Users\Pedro\Desktop\Senai\Atividades\Sprint3\ExercicioTabelaForixi\obj\Debug\net5.0\ExercicioTabelaForixi.genruntimeconfig.cache
